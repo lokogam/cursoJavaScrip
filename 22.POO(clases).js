@@ -35,8 +35,11 @@ class Automovil{
 const coche=new Automovil('seat','ibiza',2015,'gasolina','rojo')
 
 console.log(coche)
-
+ 
+// el set  sirve para cambiar el parametro del odjeto
 coche.setColor='verde'
+
+// el get sirvew para consultar  el parametro de la istancio del objeto
 console.log(coche.getColor)
 console.log(coche.velocidad(100))
 console.log(Automovil.ruedas())

@@ -1,4 +1,4 @@
-/*
+f/*
 FUNCIONES TRIGONOMETRICAS  
 
 Calculo de hipotenusa: Math.hypot(xB-xA,yB-yA)
